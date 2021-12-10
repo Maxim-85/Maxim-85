@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Maxim-85
 - 👀 I’m interested in IT
-- 🌱 I’m currently learning in FreeCodeCamp
+- 🌱 I’m currently learning in IT-cources and practice
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me k_maks.85@mail.ru
 
