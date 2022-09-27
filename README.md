@@ -2,7 +2,7 @@
 - 👀 I’m interested in IT
 - 🌱 I’m currently learning in IT-cources and practice
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me k_maks.85@mail.ru
+- 📫 How to reach me 23maxikriv07@gmail.com
 
 <!---
 Maxim-85/Maxim-85 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
